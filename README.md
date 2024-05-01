@@ -1,6 +1,6 @@
 # wiki_tutorial
 
-## Table of Contents
+## Obsah
 - [Uvod](#úvod)
 - [Tvorba nového návodu](#tvorba-nového-návodu)
   - [Vytvorenie repozitáru](#vytvorenie-repozitáru)
